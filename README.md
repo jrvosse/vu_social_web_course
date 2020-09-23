@@ -1,1 +1,1 @@
-# vu_social_web_course
+Public repository for the Social Web course at VU University
